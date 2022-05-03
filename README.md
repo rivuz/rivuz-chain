@@ -1,3 +1,3 @@
-## Go Riv
+## Go Rivuz
 
-Official Golang implementation of the Rivuz protocol.
+Official Golang implementation of the Rivuz Blockchain.
